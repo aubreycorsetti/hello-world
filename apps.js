@@ -1,9 +1,9 @@
 
  let usersName = prompt ("Are you a Teacher, TA or Student?");
  
- console.log("Ciao!" + userName + "welcome!");
+ console.log("Ciao!" + usersName + "welcome!");
 
- document.write("Ciao!" + userName + "welcome!");
+ document.write("Ciao!" + usersName + "welcome!");
 
  if (usersName == "Student") {
     alert("Dai! Veramente? Come on! Really?");
