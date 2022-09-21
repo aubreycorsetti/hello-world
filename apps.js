@@ -5,12 +5,12 @@
 
  document.write("Ciao!" + userName + "welcome!");
 
- if (usersName == "Student"){
+ if (usersName == "Student") {
     alert("Dai! Veramente? Come on! Really?");
- } else if (usersName == "Teacher"){
-    alert("Eh, figurati….  Well, what a surprise….")
- } else if (usersName == "TA"){
+ } else if (usersName == "Teacher") {
+    alert("Eh, figurati….  Well, what a surprise….");
+ } else if (usersName == "TA") {
     alert("Posso dire quel che mi va. I can say whatever I want.")
  } else {
-    alert("Divertiti! Have a good time!")
+    alert("Divertiti! Have a good time!");
  }
