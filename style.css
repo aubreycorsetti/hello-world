@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+    border: 4px solid: black;
+}
+
+nav li {
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+ 
+}
+header {
+    height: 200px;
+    text-decoration: #ff4400;
+
+}
+
+#intro {
+    border: 8px solid black;
+}
+
+#intro img {
+    float: center;
+    border-radius: 25%;
+}
+
+.section2 {
+    max-width: 30%;
+    display: inline-block;
+}
+
+.section2 img {
+    max-width: 100%;
+}
