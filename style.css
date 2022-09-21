@@ -17,16 +17,18 @@ h1 {
     text-align: center;
     margin-left: 150px;
     margin-right: 150px;
+    text-decoration
  
 }
 header {
     height: 200px;
-    text-decoration: #ff4400;
+    
 
 }
 
 #intro {
     border: 8px solid black;
+    text-align: center;
 }
 
 #intro img {
@@ -43,16 +45,12 @@ header {
     margin-top: 50px;
     margin-bottom: 25px;
     border: 8px solid black;
+    text-align-last: center;
 
 }
 
 .section2 img {
-    max-width: 250px;
-    max-height: 250px;
-    margin-top: 30px;
-    margin-bottom: 50px;
-    padding-left: 25px;
-    padding-right: 25px
+    align-items: center;
     display: inline-block;
     border-radius: 10%;
 
