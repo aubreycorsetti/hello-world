@@ -9,8 +9,8 @@ nav li {
     text-align: center;
     text-size-adjust: 25px;
     width: 100px;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 75px;
+    padding-right: 75px;
     background-color: transparent gray;
 
 
@@ -55,6 +55,8 @@ header {
     margin-bottom: 25px;
     border: 8px solid black;
     text-align-last: center;
+    padding-left: 20px;
+    padding-right: 20px;
 
 }
 
