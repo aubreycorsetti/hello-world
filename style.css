@@ -71,7 +71,12 @@ header {
 
 
 }
+.section3 {
+    text-align: center;
+
+}
 
 footer {
     display: inline-block;
+    text-align: center
 }
