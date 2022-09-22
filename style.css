@@ -24,6 +24,11 @@ nav li {
     margin-right: 75px;
 
 }
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
 ul li {display: inline-block;}
 ul li:hover {background: #555;}
 ul li:hover ul {display: block;}
@@ -43,9 +48,8 @@ h1 {
     font-family: cursive;
     margin-left: 150px;
     margin-right: 150px;
-    font-family: lucida sans;
+    font-family: "lucida" sans;
     padding-top: 25px;
-    padding-bottom: 50px
     padding-left: 25px;
     padding-right: 25px;   
  
@@ -76,6 +80,8 @@ header {
 
 .section2 {
     max-width: 30%;
+    top: 0;
+    height: 500px;
     display: inline-block;
     margin-top: 50px;
     margin-bottom: 25px;
