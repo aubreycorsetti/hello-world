@@ -45,3 +45,13 @@ for (let i = 0; (i<rating && i<5); i++){
    document.write("<img style= 'width: 50px;' src= 'https://toppng.com/uploads/preview/transparent-background-star-115497268824j1ftohfyn.png' alt= 'star picture'/>");
    
 }
+let yourGuess;
+while (yourGuess !== 'ciao'){
+    yourGuess = prompt("How do you say hello in Italaian?"); 
+    if (yourGuess !== 'ciao'){
+      alert("Poverino! Try again.")
+      
+    } else { 
+      alert('Alla fine! Finally...')
+    }
+}
