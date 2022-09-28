@@ -48,7 +48,7 @@ for (let i = 0; (i<rating && i<5); i++){
 let yourGuess;
 while (yourGuess !== 'ciao'){
     yourGuess = prompt("How do you say hello in Italaian?"); 
-    if (yourGuess !== 'ciao'){
+    if (yourGuess.toLowerCase () !== 'ciao'){
       alert("Poverino! Try again.")
       
     } else { 
